@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Studenkie Projekty/CPP/Sorting_strategy/main.cpp
+sorts.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/sorts.h
+
+D:/Studenkie Projekty/CPP/Sorting_strategy/sorts.h
+iostream
+-
+
