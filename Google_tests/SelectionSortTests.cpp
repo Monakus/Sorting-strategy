@@ -1,5 +1,6 @@
 #include "gtest/gtest.h"
-#include "sorts.h"
+#include "sortingStrategy.h"
+#include "selectionSortStrategy.h"
 
 class SelectionSortFixture : public ::testing::Test{
 protected:

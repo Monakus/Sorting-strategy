@@ -78,19 +78,64 @@ CMakeFiles/Sorting_strategy.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sorting_strategy.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\main.cpp" -o CMakeFiles\Sorting_strategy.dir\main.cpp.s
 
+CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj: CMakeFiles/Sorting_strategy.dir/flags.make
+CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj: ../bubbleSortStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Sorting_strategy.dir\bubbleSortStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\bubbleSortStrategy.cpp"
+
+CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Sorting_strategy\bubbleSortStrategy.cpp" > CMakeFiles\Sorting_strategy.dir\bubbleSortStrategy.cpp.i
+
+CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\bubbleSortStrategy.cpp" -o CMakeFiles\Sorting_strategy.dir\bubbleSortStrategy.cpp.s
+
+CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj: CMakeFiles/Sorting_strategy.dir/flags.make
+CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj: ../selectionSortStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Sorting_strategy.dir\selectionSortStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\selectionSortStrategy.cpp"
+
+CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Sorting_strategy\selectionSortStrategy.cpp" > CMakeFiles\Sorting_strategy.dir\selectionSortStrategy.cpp.i
+
+CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\selectionSortStrategy.cpp" -o CMakeFiles\Sorting_strategy.dir\selectionSortStrategy.cpp.s
+
+CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj: CMakeFiles/Sorting_strategy.dir/flags.make
+CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj: ../sortingStrategy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Sorting_strategy.dir\sortingStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\sortingStrategy.cpp"
+
+CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Sorting_strategy\sortingStrategy.cpp" > CMakeFiles\Sorting_strategy.dir\sortingStrategy.cpp.i
+
+CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\sortingStrategy.cpp" -o CMakeFiles\Sorting_strategy.dir\sortingStrategy.cpp.s
+
 # Object files for target Sorting_strategy
 Sorting_strategy_OBJECTS = \
-"CMakeFiles/Sorting_strategy.dir/main.cpp.obj"
+"CMakeFiles/Sorting_strategy.dir/main.cpp.obj" \
+"CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj" \
+"CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj" \
+"CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj"
 
 # External object files for target Sorting_strategy
 Sorting_strategy_EXTERNAL_OBJECTS =
 
 Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/main.cpp.obj
+Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj
+Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj
+Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj
 Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/build.make
 Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/linklibs.rsp
 Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/objects1.rsp
 Sorting_strategy.exe: CMakeFiles/Sorting_strategy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Sorting_strategy.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Sorting_strategy.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Sorting_strategy.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

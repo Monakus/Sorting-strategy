@@ -23,7 +23,8 @@ Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj: \
  ../Google_tests/lib/googletest/include/gtest/internal/gtest-port.h \
  ../Google_tests/lib/googletest/include/gtest/internal/gtest-string.h \
  ../Google_tests/lib/googletest/include/gtest/internal/gtest-type-util.h \
- ../sorts.h \
+ ../bubbleSortStrategy.h \
+ ../sortingStrategy.h \
  ../Google_tests/BubbleSortTests.cpp
 Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj: \
  ../Google_tests/lib/googletest/include/gtest/gtest-assertion-result.h \
@@ -47,5 +48,17 @@ Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj: \
  ../Google_tests/lib/googletest/include/gtest/internal/gtest-port.h \
  ../Google_tests/lib/googletest/include/gtest/internal/gtest-string.h \
  ../Google_tests/lib/googletest/include/gtest/internal/gtest-type-util.h \
- ../sorts.h \
+ ../selectionSortStrategy.h \
+ ../sortingStrategy.h \
  ../Google_tests/SelectionSortTests.cpp
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/bubbleSortStrategy.cpp.obj: \
+ ../bubbleSortStrategy.cpp \
+ ../bubbleSortStrategy.h \
+ ../sortingStrategy.h
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/selectionSortStrategy.cpp.obj: \
+ ../selectionSortStrategy.cpp \
+ ../selectionSortStrategy.h \
+ ../sortingStrategy.h
+Google_tests/CMakeFiles/Google_Tests_run.dir/__/sortingStrategy.cpp.obj: \
+ ../sortingStrategy.cpp \
+ ../sortingStrategy.h

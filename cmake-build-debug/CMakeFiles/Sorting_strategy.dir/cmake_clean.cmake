@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj"
   "CMakeFiles/Sorting_strategy.dir/main.cpp.obj"
+  "CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj"
+  "CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj"
   "Sorting_strategy.exe"
   "Sorting_strategy.exe.manifest"
   "Sorting_strategy.pdb"

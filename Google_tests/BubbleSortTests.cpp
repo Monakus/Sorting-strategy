@@ -1,5 +1,6 @@
 #include "gtest/gtest.h"
-#include "sorts.h"
+#include "sortingStrategy.h"
+#include "bubbleSortStrategy.h"
 
 class BubbleSortFixture : public ::testing::Test{
 protected:

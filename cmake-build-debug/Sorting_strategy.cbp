@@ -378,10 +378,28 @@
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/bubbleSortStrategy.cpp">
+			<Option target="Sorting_strategy"/>
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/bubbleSortStrategy.h">
+			<Option target="Sorting_strategy"/>
+		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/main.cpp">
 			<Option target="Sorting_strategy"/>
 		</Unit>
-		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/sorts.h">
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/selectionSortStrategy.cpp">
+			<Option target="Sorting_strategy"/>
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/selectionSortStrategy.h">
+			<Option target="Sorting_strategy"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/sortingStrategy.cpp">
+			<Option target="Sorting_strategy"/>
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/sortingStrategy.h">
 			<Option target="Sorting_strategy"/>
 		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/CMakeLists.txt">

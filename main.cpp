@@ -1,5 +1,6 @@
-#include "sorts.h"
-
+#include "sortingStrategy.h"
+#include "bubbleSortStrategy.h"
+#include "selectionSortStrategy.h"
 
 
 int main(){

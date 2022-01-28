@@ -238,6 +238,30 @@ gtest_main/fast:
 	$(MAKE) $(MAKESILENT) -f Google_tests\lib\googletest\CMakeFiles\gtest_main.dir\build.make Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
 
+bubbleSortStrategy.obj: bubbleSortStrategy.cpp.obj
+.PHONY : bubbleSortStrategy.obj
+
+# target to build an object file
+bubbleSortStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj
+.PHONY : bubbleSortStrategy.cpp.obj
+
+bubbleSortStrategy.i: bubbleSortStrategy.cpp.i
+.PHONY : bubbleSortStrategy.i
+
+# target to preprocess a source file
+bubbleSortStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.i
+.PHONY : bubbleSortStrategy.cpp.i
+
+bubbleSortStrategy.s: bubbleSortStrategy.cpp.s
+.PHONY : bubbleSortStrategy.s
+
+# target to generate assembly for a file
+bubbleSortStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.s
+.PHONY : bubbleSortStrategy.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -262,6 +286,54 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+selectionSortStrategy.obj: selectionSortStrategy.cpp.obj
+.PHONY : selectionSortStrategy.obj
+
+# target to build an object file
+selectionSortStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj
+.PHONY : selectionSortStrategy.cpp.obj
+
+selectionSortStrategy.i: selectionSortStrategy.cpp.i
+.PHONY : selectionSortStrategy.i
+
+# target to preprocess a source file
+selectionSortStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.i
+.PHONY : selectionSortStrategy.cpp.i
+
+selectionSortStrategy.s: selectionSortStrategy.cpp.s
+.PHONY : selectionSortStrategy.s
+
+# target to generate assembly for a file
+selectionSortStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.s
+.PHONY : selectionSortStrategy.cpp.s
+
+sortingStrategy.obj: sortingStrategy.cpp.obj
+.PHONY : sortingStrategy.obj
+
+# target to build an object file
+sortingStrategy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj
+.PHONY : sortingStrategy.cpp.obj
+
+sortingStrategy.i: sortingStrategy.cpp.i
+.PHONY : sortingStrategy.i
+
+# target to preprocess a source file
+sortingStrategy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.i
+.PHONY : sortingStrategy.cpp.i
+
+sortingStrategy.s: sortingStrategy.cpp.s
+.PHONY : sortingStrategy.s
+
+# target to generate assembly for a file
+sortingStrategy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sorting_strategy.dir\build.make CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.s
+.PHONY : sortingStrategy.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -280,9 +352,18 @@ help:
 	@echo ... gmock_main
 	@echo ... gtest
 	@echo ... gtest_main
+	@echo ... bubbleSortStrategy.obj
+	@echo ... bubbleSortStrategy.i
+	@echo ... bubbleSortStrategy.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... selectionSortStrategy.obj
+	@echo ... selectionSortStrategy.i
+	@echo ... selectionSortStrategy.s
+	@echo ... sortingStrategy.obj
+	@echo ... sortingStrategy.i
+	@echo ... sortingStrategy.s
 .PHONY : help
 
 
