@@ -8,11 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/BubbleSortTests.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj"
-  "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/SelectionSortTests.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj"
   "D:/Studenkie Projekty/CPP/Sorting_strategy/src/bubbleSortStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj"
   "D:/Studenkie Projekty/CPP/Sorting_strategy/src/selectionSortStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj"
   "D:/Studenkie Projekty/CPP/Sorting_strategy/src/sortingStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/sortingTests.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

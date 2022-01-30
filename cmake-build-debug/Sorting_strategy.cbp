@@ -360,12 +360,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/BubbleSortTests.cpp">
-			<Option target="Google_Tests_run"/>
-		</Unit>
-		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/SelectionSortTests.cpp">
-			<Option target="Google_Tests_run"/>
-		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googlemock/src/gmock-all.cc">
 			<Option target="gmock"/>
 		</Unit>
@@ -377,6 +371,12 @@
 		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/sortingTests.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/sortingTests.h">
+			<Option target="Google_Tests_run"/>
 		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/include/bubbleSortStrategy.h">
 			<Option target="Sorting_strategy"/>

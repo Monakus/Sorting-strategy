@@ -174,54 +174,6 @@ Google_Tests_run/fast:
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/build
 .PHONY : Google_Tests_run/fast
 
-BubbleSortTests.obj: BubbleSortTests.cpp.obj
-.PHONY : BubbleSortTests.obj
-
-# target to build an object file
-BubbleSortTests.cpp.obj:
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj
-.PHONY : BubbleSortTests.cpp.obj
-
-BubbleSortTests.i: BubbleSortTests.cpp.i
-.PHONY : BubbleSortTests.i
-
-# target to preprocess a source file
-BubbleSortTests.cpp.i:
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.i
-.PHONY : BubbleSortTests.cpp.i
-
-BubbleSortTests.s: BubbleSortTests.cpp.s
-.PHONY : BubbleSortTests.s
-
-# target to generate assembly for a file
-BubbleSortTests.cpp.s:
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.s
-.PHONY : BubbleSortTests.cpp.s
-
-SelectionSortTests.obj: SelectionSortTests.cpp.obj
-.PHONY : SelectionSortTests.obj
-
-# target to build an object file
-SelectionSortTests.cpp.obj:
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj
-.PHONY : SelectionSortTests.cpp.obj
-
-SelectionSortTests.i: SelectionSortTests.cpp.i
-.PHONY : SelectionSortTests.i
-
-# target to preprocess a source file
-SelectionSortTests.cpp.i:
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.i
-.PHONY : SelectionSortTests.cpp.i
-
-SelectionSortTests.s: SelectionSortTests.cpp.s
-.PHONY : SelectionSortTests.s
-
-# target to generate assembly for a file
-SelectionSortTests.cpp.s:
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.s
-.PHONY : SelectionSortTests.cpp.s
-
 __/src/bubbleSortStrategy.obj: __/src/bubbleSortStrategy.cpp.obj
 .PHONY : __/src/bubbleSortStrategy.obj
 
@@ -294,6 +246,30 @@ __/src/sortingStrategy.cpp.s:
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.s
 .PHONY : __/src/sortingStrategy.cpp.s
 
+sortingTests.obj: sortingTests.cpp.obj
+.PHONY : sortingTests.obj
+
+# target to build an object file
+sortingTests.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj
+.PHONY : sortingTests.cpp.obj
+
+sortingTests.i: sortingTests.cpp.i
+.PHONY : sortingTests.i
+
+# target to preprocess a source file
+sortingTests.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.i
+.PHONY : sortingTests.cpp.i
+
+sortingTests.s: sortingTests.cpp.s
+.PHONY : sortingTests.s
+
+# target to generate assembly for a file
+sortingTests.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.s
+.PHONY : sortingTests.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -307,12 +283,6 @@ help:
 	@echo ... list_install_components
 	@echo ... rebuild_cache
 	@echo ... Google_Tests_run
-	@echo ... BubbleSortTests.obj
-	@echo ... BubbleSortTests.i
-	@echo ... BubbleSortTests.s
-	@echo ... SelectionSortTests.obj
-	@echo ... SelectionSortTests.i
-	@echo ... SelectionSortTests.s
 	@echo ... __/src/bubbleSortStrategy.obj
 	@echo ... __/src/bubbleSortStrategy.i
 	@echo ... __/src/bubbleSortStrategy.s
@@ -322,6 +292,9 @@ help:
 	@echo ... __/src/sortingStrategy.obj
 	@echo ... __/src/sortingStrategy.i
 	@echo ... __/src/sortingStrategy.s
+	@echo ... sortingTests.obj
+	@echo ... sortingTests.i
+	@echo ... sortingTests.s
 .PHONY : help
 
 

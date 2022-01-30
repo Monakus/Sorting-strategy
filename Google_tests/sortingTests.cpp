@@ -1,20 +1,6 @@
-#include "gtest/gtest.h"
-#include "../include/sortingStrategy.h"
-#include "../include/bubbleSortStrategy.h"
+#include "sortingTests.h"
 
-class BubbleSortFixture : public ::testing::Test{
-protected:
-    SortingContext *context{};
-    void SetUp() override{
-        context = new SortingContext(new BubbleSortStrategy);
-    }
-
-    void TearDown() override{
-        delete context;
-    }
-};
-
-TEST_F(BubbleSortFixture, trivial1){
+TEST_P(SortingSuite, trivial1){
     // given
     int array[] = {8, 3, 5, 5, 7, 6, 1, 3, 4};
     int count = 9;
@@ -29,7 +15,7 @@ TEST_F(BubbleSortFixture, trivial1){
     }
 }
 
-TEST_F(BubbleSortFixture, trivial2){
+TEST_P(SortingSuite, trivial2){
     // given
     int array[] = {5, 4, 7, 90, 31, 1, 4, 8, 23, 74, 15, 0, 57};
     int count = 13;
@@ -44,7 +30,7 @@ TEST_F(BubbleSortFixture, trivial2){
     }
 }
 
-TEST_F(BubbleSortFixture, largeNumbers){
+TEST_P(SortingSuite, largeNumbers){
     // given
     int array[] = {583, 113, 222, 123, 635, 589, 999};
     int count = 7;
@@ -59,7 +45,7 @@ TEST_F(BubbleSortFixture, largeNumbers){
     }
 }
 
-TEST_F(BubbleSortFixture, reverseOrder){
+TEST_P(SortingSuite, reverseOrder){
     // given
     int array[] = {9, 8, 7, 6, 5, 4, 3, 2, 1};
     int count = 9;
@@ -73,3 +59,4 @@ TEST_F(BubbleSortFixture, reverseOrder){
         EXPECT_EQ(array[i], sortedArray[i]) << "Values x and y differ at index " << i;
     }
 }
+

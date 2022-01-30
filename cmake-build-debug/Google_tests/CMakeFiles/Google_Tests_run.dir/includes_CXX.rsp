@@ -1,1 +1,1 @@
--I"D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/.." -isystem "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/include" -isystem "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest"
+-I"D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/../include" -isystem "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/include" -isystem "D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest"

@@ -65,38 +65,24 @@ include Google_tests/CMakeFiles/Google_Tests_run.dir/progress.make
 # Include the compile flags for this target's objects.
 include Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
 
-Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
-Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
-Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj: ../Google_tests/BubbleSortTests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj"
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\BubbleSortTests.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\BubbleSortTests.cpp"
+Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
+Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
+Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj: ../Google_tests/sortingTests.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj"
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\sortingTests.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\sortingTests.cpp"
 
-Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.i"
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\BubbleSortTests.cpp" > CMakeFiles\Google_Tests_run.dir\BubbleSortTests.cpp.i
+Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.i"
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\sortingTests.cpp" > CMakeFiles\Google_Tests_run.dir\sortingTests.cpp.i
 
-Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.s"
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\BubbleSortTests.cpp" -o CMakeFiles\Google_Tests_run.dir\BubbleSortTests.cpp.s
-
-Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
-Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
-Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj: ../Google_tests/SelectionSortTests.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj"
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\SelectionSortTests.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\SelectionSortTests.cpp"
-
-Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.i"
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\SelectionSortTests.cpp" > CMakeFiles\Google_Tests_run.dir\SelectionSortTests.cpp.i
-
-Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.s"
-	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\SelectionSortTests.cpp" -o CMakeFiles\Google_Tests_run.dir\SelectionSortTests.cpp.s
+Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.s"
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Studenkie Projekty\CPP\Sorting_strategy\Google_tests\sortingTests.cpp" -o CMakeFiles\Google_Tests_run.dir\sortingTests.cpp.s
 
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj: ../src/sortingStrategy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj"
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\sortingStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\src\sortingStrategy.cpp"
 
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.i: cmake_force
@@ -110,7 +96,7 @@ Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.s: cmake
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj: ../src/bubbleSortStrategy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj"
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\bubbleSortStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\src\bubbleSortStrategy.cpp"
 
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.i: cmake_force
@@ -124,7 +110,7 @@ Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.s: cm
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/flags.make
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj: Google_tests/CMakeFiles/Google_Tests_run.dir/includes_CXX.rsp
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj: ../src/selectionSortStrategy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj"
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Google_Tests_run.dir\__\src\selectionSortStrategy.cpp.obj -c "D:\Studenkie Projekty\CPP\Sorting_strategy\src\selectionSortStrategy.cpp"
 
 Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.i: cmake_force
@@ -137,8 +123,7 @@ Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.s:
 
 # Object files for target Google_Tests_run
 Google_Tests_run_OBJECTS = \
-"CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj" \
-"CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj" \
+"CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj" \
 "CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj" \
 "CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj" \
 "CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj"
@@ -146,8 +131,7 @@ Google_Tests_run_OBJECTS = \
 # External object files for target Google_Tests_run
 Google_Tests_run_EXTERNAL_OBJECTS =
 
-Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/BubbleSortTests.cpp.obj
-Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.obj
+Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/sortingTests.cpp.obj
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj
@@ -158,7 +142,7 @@ Google_tests/Google_Tests_run.exe: lib/libgtest.a
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/linklibs.rsp
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/objects1.rsp
 Google_tests/Google_Tests_run.exe: Google_tests/CMakeFiles/Google_Tests_run.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Google_Tests_run.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Google_Tests_run.exe"
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug\Google_tests" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Google_Tests_run.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

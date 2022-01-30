@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Studenkie Projekty/CPP/Sorting_strategy/bubbleSortStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/bubbleSortStrategy.cpp.obj"
-  "D:/Studenkie Projekty/CPP/Sorting_strategy/main.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/main.cpp.obj"
-  "D:/Studenkie Projekty/CPP/Sorting_strategy/selectionSortStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/selectionSortStrategy.cpp.obj"
-  "D:/Studenkie Projekty/CPP/Sorting_strategy/sortingStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/sortingStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Sorting_strategy/src/bubbleSortStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/src/bubbleSortStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Sorting_strategy/src/main.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/src/main.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Sorting_strategy/src/selectionSortStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/src/selectionSortStrategy.cpp.obj"
+  "D:/Studenkie Projekty/CPP/Sorting_strategy/src/sortingStrategy.cpp" "D:/Studenkie Projekty/CPP/Sorting_strategy/cmake-build-debug/CMakeFiles/Sorting_strategy.dir/src/sortingStrategy.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
