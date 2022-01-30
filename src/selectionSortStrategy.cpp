@@ -1,5 +1,5 @@
-#include "sortingStrategy.h"
-#include "selectionSortStrategy.h"
+#include "../include/sortingStrategy.h"
+#include "../include/selectionSortStrategy.h"
 
 void SelectionSortStrategy::sort(int *array, int count) {
     for (int i = 0; i < count - 1; ++i) {

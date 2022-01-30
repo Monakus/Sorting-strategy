@@ -222,6 +222,78 @@ SelectionSortTests.cpp.s:
 	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/SelectionSortTests.cpp.s
 .PHONY : SelectionSortTests.cpp.s
 
+__/src/bubbleSortStrategy.obj: __/src/bubbleSortStrategy.cpp.obj
+.PHONY : __/src/bubbleSortStrategy.obj
+
+# target to build an object file
+__/src/bubbleSortStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.obj
+.PHONY : __/src/bubbleSortStrategy.cpp.obj
+
+__/src/bubbleSortStrategy.i: __/src/bubbleSortStrategy.cpp.i
+.PHONY : __/src/bubbleSortStrategy.i
+
+# target to preprocess a source file
+__/src/bubbleSortStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.i
+.PHONY : __/src/bubbleSortStrategy.cpp.i
+
+__/src/bubbleSortStrategy.s: __/src/bubbleSortStrategy.cpp.s
+.PHONY : __/src/bubbleSortStrategy.s
+
+# target to generate assembly for a file
+__/src/bubbleSortStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/bubbleSortStrategy.cpp.s
+.PHONY : __/src/bubbleSortStrategy.cpp.s
+
+__/src/selectionSortStrategy.obj: __/src/selectionSortStrategy.cpp.obj
+.PHONY : __/src/selectionSortStrategy.obj
+
+# target to build an object file
+__/src/selectionSortStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.obj
+.PHONY : __/src/selectionSortStrategy.cpp.obj
+
+__/src/selectionSortStrategy.i: __/src/selectionSortStrategy.cpp.i
+.PHONY : __/src/selectionSortStrategy.i
+
+# target to preprocess a source file
+__/src/selectionSortStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.i
+.PHONY : __/src/selectionSortStrategy.cpp.i
+
+__/src/selectionSortStrategy.s: __/src/selectionSortStrategy.cpp.s
+.PHONY : __/src/selectionSortStrategy.s
+
+# target to generate assembly for a file
+__/src/selectionSortStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/selectionSortStrategy.cpp.s
+.PHONY : __/src/selectionSortStrategy.cpp.s
+
+__/src/sortingStrategy.obj: __/src/sortingStrategy.cpp.obj
+.PHONY : __/src/sortingStrategy.obj
+
+# target to build an object file
+__/src/sortingStrategy.cpp.obj:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.obj
+.PHONY : __/src/sortingStrategy.cpp.obj
+
+__/src/sortingStrategy.i: __/src/sortingStrategy.cpp.i
+.PHONY : __/src/sortingStrategy.i
+
+# target to preprocess a source file
+__/src/sortingStrategy.cpp.i:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.i
+.PHONY : __/src/sortingStrategy.cpp.i
+
+__/src/sortingStrategy.s: __/src/sortingStrategy.cpp.s
+.PHONY : __/src/sortingStrategy.s
+
+# target to generate assembly for a file
+__/src/sortingStrategy.cpp.s:
+	cd /d "D:\Studenkie Projekty\CPP\Sorting_strategy\cmake-build-debug" && $(MAKE) $(MAKESILENT) -f Google_tests\CMakeFiles\Google_Tests_run.dir\build.make Google_tests/CMakeFiles/Google_Tests_run.dir/__/src/sortingStrategy.cpp.s
+.PHONY : __/src/sortingStrategy.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -241,6 +313,15 @@ help:
 	@echo ... SelectionSortTests.obj
 	@echo ... SelectionSortTests.i
 	@echo ... SelectionSortTests.s
+	@echo ... __/src/bubbleSortStrategy.obj
+	@echo ... __/src/bubbleSortStrategy.i
+	@echo ... __/src/bubbleSortStrategy.s
+	@echo ... __/src/selectionSortStrategy.obj
+	@echo ... __/src/selectionSortStrategy.i
+	@echo ... __/src/selectionSortStrategy.s
+	@echo ... __/src/sortingStrategy.obj
+	@echo ... __/src/sortingStrategy.i
+	@echo ... __/src/sortingStrategy.s
 .PHONY : help
 
 

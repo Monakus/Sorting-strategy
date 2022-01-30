@@ -24,7 +24,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/.."/>
+					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/../include"/>
 					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/include"/>
 					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
@@ -48,7 +48,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/.."/>
+					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/../include"/>
 					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/include"/>
 					<Add directory="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest"/>
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
@@ -275,6 +275,15 @@
 		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/Google_tests/lib/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/src/bubbleSortStrategy.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/src/selectionSortStrategy.cpp">
+			<Option target="Google_Tests_run"/>
+		</Unit>
+		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/src/sortingStrategy.cpp">
+			<Option target="Google_Tests_run"/>
 		</Unit>
 		<Unit filename="D:/Studenkie Projekty/CPP/Sorting_strategy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

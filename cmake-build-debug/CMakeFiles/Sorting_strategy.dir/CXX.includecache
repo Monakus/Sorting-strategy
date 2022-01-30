@@ -6,11 +6,31 @@
 
 #IncludeRegexTransform: 
 
-D:/Studenkie Projekty/CPP/Sorting_strategy/main.cpp
-sorts.h
-D:/Studenkie Projekty/CPP/Sorting_strategy/sorts.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/bubbleSortStrategy.h
+sortingStrategy.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/sortingStrategy.h
 
-D:/Studenkie Projekty/CPP/Sorting_strategy/sorts.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/selectionSortStrategy.h
+
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/sortingStrategy.h
 iostream
 -
+
+D:/Studenkie Projekty/CPP/Sorting_strategy/src/bubbleSortStrategy.cpp
+../include/sortingStrategy.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/sortingStrategy.h
+../include/bubbleSortStrategy.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/bubbleSortStrategy.h
+
+D:/Studenkie Projekty/CPP/Sorting_strategy/src/selectionSortStrategy.cpp
+../include/sortingStrategy.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/sortingStrategy.h
+../include/selectionSortStrategy.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/selectionSortStrategy.h
+
+D:/Studenkie Projekty/CPP/Sorting_strategy/src/sortingStrategy.cpp
+iostream
+-
+../include/sortingStrategy.h
+D:/Studenkie Projekty/CPP/Sorting_strategy/include/sortingStrategy.h
 
